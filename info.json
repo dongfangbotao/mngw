@@ -1,0 +1,723 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://www.mini1.cn/index",
+            "path": "index.html",
+            "saved": true,
+            "size": 119358,
+            "children": [
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/superHome/images/minijidi62be5dc3e6096def7b336b3bd74556ae.png",
+                    "path": "img/minijidi62be5dc3e6096def7b336b3bd74556ae.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/images/mafan2.png",
+                    "path": "img/mafan2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/images/sunjihua2.png",
+                    "path": "img/sunjihua2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/images/y12.png",
+                    "path": "img/y12.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/images/payment2.png",
+                    "path": "img/payment2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://webpicture.mini1.cn/20220930/18344828538815-6311-bd45-7892-2156cf3e58e8.png",
+                    "path": "img/18344828538815-6311-bd45-7892-2156cf3e58e8.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://webpicture.mini1.cn/20220930/2124066470f836-0580-987b-bddf-98415614fbf3.png",
+                    "path": "img/2124066470f836-0580-987b-bddf-98415614fbf3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://webpicture.mini1.cn/20220923/205353035a0867-8fb8-fcd8-45f3-ff0f5abe43b7.png",
+                    "path": "img/205353035a0867-8fb8-fcd8-45f3-ff0f5abe43b7.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://webpicture.mini1.cn/20220923/204345d4ead278-cf51-a637-b79c-9308ad0710d1.png",
+                    "path": "img/204345d4ead278-cf51-a637-b79c-9308ad0710d1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://webpicture.mini1.cn/20220923/15312876d6e146-fe0e-5e0d-2612-a83fe9656cb3.png",
+                    "path": "img/15312876d6e146-fe0e-5e0d-2612-a83fe9656cb3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/images/iconnodata.png",
+                    "path": "img/iconnodata.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20220411/c667ebdcc4d6d13428e2dd3d7a7aea84.png",
+                    "path": "img/c667ebdcc4d6d13428e2dd3d7a7aea84.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/images/qrcode.1.png",
+                    "path": "img/qrcode.1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://webpicture.mini1.cn/20220928/174008247f1ecb-4dbb-ec90-203e-01f71efba48c.jpg",
+                    "path": "img/174008247f1ecb-4dbb-ec90-203e-01f71efba48c.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/b/20191009/6c48fa9d0c4bff5c715a0c77db568301.png",
+                    "path": "img/6c48fa9d0c4bff5c715a0c77db568301.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/b/20191009/bdd4f9b4ac1351194c7767b5958f6efb.png",
+                    "path": "img/bdd4f9b4ac1351194c7767b5958f6efb.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20220402/e6897456d0c44fedac0d5385cbfd8274.png",
+                    "path": "img/e6897456d0c44fedac0d5385cbfd8274.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20211008/696ffce6fc77638b8ae66fe7c58c7b1d.jpg",
+                    "path": "img/696ffce6fc77638b8ae66fe7c58c7b1d.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210907/7cfa33efded17b12c583723b05ff611a.png",
+                    "path": "img/7cfa33efded17b12c583723b05ff611a.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210823/a9cb6e656219e2ec6540653efca8bf24.png",
+                    "path": "img/a9cb6e656219e2ec6540653efca8bf24.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210823/2e0f6531c162fdddd457a4f87d405988.png",
+                    "path": "img/2e0f6531c162fdddd457a4f87d405988.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210823/d6a3f5f6db6f7062a93f056d9b7b2ca8.jpg",
+                    "path": "img/d6a3f5f6db6f7062a93f056d9b7b2ca8.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210823/4152c15dfc369e4a1efc454912c3e2dc.png",
+                    "path": "img/4152c15dfc369e4a1efc454912c3e2dc.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210819/b36b2892f9b901264edf031726b05de1.jpg",
+                    "path": "img/b36b2892f9b901264edf031726b05de1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210818/7c0a7f839d81d63480f8b1c8bca4fd7c.png",
+                    "path": "img/7c0a7f839d81d63480f8b1c8bca4fd7c.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210810/997b73c0c5ff5f60366ff13c888d4f62.jpg",
+                    "path": "img/997b73c0c5ff5f60366ff13c888d4f62.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210807/db79cab653775187232097efc8a42f4b.png",
+                    "path": "img/db79cab653775187232097efc8a42f4b.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210723/a33ff8467dfa274158ef652ed2064fea.png",
+                    "path": "img/a33ff8467dfa274158ef652ed2064fea.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210720/09e0d7a047789c68e49c95012faab728.jpg",
+                    "path": "img/09e0d7a047789c68e49c95012faab728.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210714/94a7b63f63b05d9818120bb925ca76e0.jpg",
+                    "path": "img/94a7b63f63b05d9818120bb925ca76e0.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210610/3e8e6335caeb5a4471cfa5e5abe61014.jpg",
+                    "path": "img/3e8e6335caeb5a4471cfa5e5abe61014.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20210120/5aa7751338caebaaae247e39313bbaaa.png",
+                    "path": "img/5aa7751338caebaaae247e39313bbaaa.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20210120/5947214575af94e70a24f6640e9befe6.png",
+                    "saved": false
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20210118/60c644a4db7984ad6d8c7cac1c506586.jpg",
+                    "path": "img/60c644a4db7984ad6d8c7cac1c506586.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20200804/6ead8d8859bb8194ec7161daaf4c9712.png",
+                    "path": "img/6ead8d8859bb8194ec7161daaf4c9712.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210825/57c7a03edac398b9cbb0235e4be34a6a.jpg",
+                    "path": "img/57c7a03edac398b9cbb0235e4be34a6a.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210818/e2c4cf62e7e68aee3a79a6a35765f443.png",
+                    "path": "img/e2c4cf62e7e68aee3a79a6a35765f443.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210818/85cd1a0281baf29d89909c9cc61189cd.png",
+                    "path": "img/85cd1a0281baf29d89909c9cc61189cd.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210816/47d251d79333e706aaad3502d2ae0e55.jpg",
+                    "path": "img/47d251d79333e706aaad3502d2ae0e55.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20220402/3efe379a76c442bfec12dc2f53c14f8e.png",
+                    "path": "img/3efe379a76c442bfec12dc2f53c14f8e.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20220311/2b047fe3d1e970fdb070b9846a1e3e08.jpg",
+                    "path": "img/2b047fe3d1e970fdb070b9846a1e3e08.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20220218/954491be3491ad89fa1d706e4a180e47.jpg",
+                    "path": "img/954491be3491ad89fa1d706e4a180e47.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20220125/6cae06277525d6f1d205bb7e2b3032b6.jpg",
+                    "path": "img/6cae06277525d6f1d205bb7e2b3032b6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20211124/d88908e2a4ec4e0e9d01b493154e11ee.png",
+                    "path": "img/d88908e2a4ec4e0e9d01b493154e11ee.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20201119/7249b6bd31ce7a53d44e7df658d17330.jpg",
+                    "path": "img/7249b6bd31ce7a53d44e7df658d17330.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20201119/4c629d4407908f8654b7cf21fb64fd1f.jpg",
+                    "path": "img/4c629d4407908f8654b7cf21fb64fd1f.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20201120/26eb40d0faf09cd78e7176dab13aff23.jpg",
+                    "path": "img/26eb40d0faf09cd78e7176dab13aff23.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20200525/b0c4f7d1c2fb1f9ce72b64748620ed23.png",
+                    "path": "img/b0c4f7d1c2fb1f9ce72b64748620ed23.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20201119/950d240f0b5dc1eafc9b46370eb5228b.jpg",
+                    "path": "img/950d240f0b5dc1eafc9b46370eb5228b.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/b/20200321/46440557e2ddf60366d51bdb515c2ad5.png",
+                    "path": "img/46440557e2ddf60366d51bdb515c2ad5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20201120/4db7d17b3cb922fed037dfd3faa88177.jpg",
+                    "path": "img/4db7d17b3cb922fed037dfd3faa88177.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20210118/f62ae0a807bd015329bd237c13c4b1bd.jpg",
+                    "path": "img/f62ae0a807bd015329bd237c13c4b1bd.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20210112/e8a3144b4e1ad12edcd002bb83a0372d.png",
+                    "path": "img/e8a3144b4e1ad12edcd002bb83a0372d.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20210104/082f4683174d03ca7174706e230e9e81.png",
+                    "path": "img/082f4683174d03ca7174706e230e9e81.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20201228/d119552f515d4d1c84524fc52235aeee.png",
+                    "path": "img/d119552f515d4d1c84524fc52235aeee.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20201228/b69708fae1e8f885ac34fad9e263389a.png",
+                    "path": "img/b69708fae1e8f885ac34fad9e263389a.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20201207/20a8ded80f37e6f96816a62d0ca7aec1.jpg",
+                    "path": "img/20a8ded80f37e6f96816a62d0ca7aec1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20201207/060efa5d83edfd4e1de6d7384149f637.jpg",
+                    "path": "img/060efa5d83edfd4e1de6d7384149f637.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20201130/503874d989368ad960198afda287edf3.jpg",
+                    "path": "img/503874d989368ad960198afda287edf3.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/a/20190724/1e8df2533e64ab0bd5779d57afd0d072.jpg",
+                    "path": "img/1e8df2533e64ab0bd5779d57afd0d072.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/a/20190724/f28e40666257e551ec69802335aa5689.jpg",
+                    "path": "img/f28e40666257e551ec69802335aa5689.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/a/20190724/40b6ff6db7e92575fa7ae5809f00996b.jpg",
+                    "path": "img/40b6ff6db7e92575fa7ae5809f00996b.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/d/20210727/c712b0e4cbc5096d3caff69dfac0a30a.jpg",
+                    "path": "img/c712b0e4cbc5096d3caff69dfac0a30a.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20200714/d62ce381d75594fb4a5dff1ccbb024f6.jpg",
+                    "path": "img/d62ce381d75594fb4a5dff1ccbb024f6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20200714/cd69a46c303b53fd40c0bd3642b49429.jpg",
+                    "path": "img/cd69a46c303b53fd40c0bd3642b49429.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20200714/9db1d2f65b17cd008d232e90b84650e3.jpg",
+                    "path": "img/9db1d2f65b17cd008d232e90b84650e3.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://image.mini1.cn/c/20200622/9906d312d4d7ecf0495f8f81dd2be469.png",
+                    "path": "img/9906d312d4d7ecf0495f8f81dd2be469.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pkg.mini1.cn/jquery@1.12.4/dist/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 97163,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn-activity.mini1.cn/mnshare/js/jquery.SuperSlide.2.1.3.js",
+                    "path": "js/jquery.SuperSlide.2.1.3.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://cdn-activity.mini1.cn/mnshare/js/showDialog.js",
+                    "path": "js/showDialog.js",
+                    "saved": true,
+                    "size": 7595,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/libs/jquery.lazyload.min.js",
+                    "path": "js/jquery.lazyload.min.js",
+                    "saved": true,
+                    "size": 3613,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/js/common.46fde5ed028eabb26970.js",
+                    "path": "js/common.46fde5ed028eabb26970.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/js/main.1afdafd59287b7c295d8.js",
+                    "path": "js/main.1afdafd59287b7c295d8.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/js/index.2dd980d711ca30a1c9b7.js",
+                    "path": "js/index.2dd980d711ca30a1c9b7.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/css/common.9e6a3fce610294e6cfb3.css",
+                    "path": "css/common.9e6a3fce610294e6cfb3.css",
+                    "saved": true,
+                    "size": 9786,
+                    "children": [
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/images/css_sprits.104f99847099511b79da19134af9321c.png",
+                            "path": "img/css_sprits.104f99847099511b79da19134af9321c.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/css/main.51b4e5734d8f3a1162a7.css",
+                    "path": "css/main.51b4e5734d8f3a1162a7.css",
+                    "saved": true,
+                    "size": 23939,
+                    "children": [
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/images/main-bg.03ca3e0c4ae47b213e9e5932ce3efd59.jpg",
+                            "path": "img/main-bg.03ca3e0c4ae47b213e9e5932ce3efd59.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/images/main-bg2.6df7d8d1f1378b2604db8451507ab319.jpg",
+                            "path": "img/main-bg2.6df7d8d1f1378b2604db8451507ab319.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/css/index.2dd980d711ca30a1c9b7.css",
+                    "path": "css/index.2dd980d711ca30a1c9b7.css",
+                    "saved": true,
+                    "size": 11526,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/activity/miniweb/css/common.min1.1.css",
+                    "path": "css/common.min1.1.css",
+                    "saved": true,
+                    "size": 17929,
+                    "children": [
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/images/mini_logo320.png",
+                            "path": "img/mini_logo320.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/images/logol1.png",
+                            "path": "img/logol1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/images/logol2.png",
+                            "path": "img/logol2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/images/sanbodx.png",
+                            "path": "img/sanbodx.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/images/download_btn.png",
+                            "path": "img/download_btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/m/images/tabs1.png",
+                            "path": "img/tabs1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/m/images/tabs2.png",
+                            "path": "img/tabs2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://mnweb.mini1.cn/activity/miniweb/m/images/tabs3.png",
+                            "path": "img/tabs3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/icon/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/icon/logo-32x32.png",
+                    "path": "img/logo-32x32.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/icon/logo-64x64.png",
+                    "path": "img/logo-64x64.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://mnweb.mini1.cn/icon/logo-128x128.png",
+                    "path": "img/logo-128x128.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-mini1-cn-o01fwei",
+    "info": {
+        "remark": [],
+        "title": "迷你世界-官方网站-想象无边界 创造无止境",
+        "domain": "www.mini1.cn",
+        "origin": "https://www.mini1.cn",
+        "ip": "14.128.1.14",
+        "main": "index.html",
+        "url": "https://www.mini1.cn/index",
+        "totalSize": "291 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://www.mini1.cn/index",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://www.mini1.cn/index",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Thu, 06 Oct 2022 01:21:28 GMT",
+                "content-type": "text/html",
+                "content-length": "123084",
+                "connection": "close",
+                "expires": "Thu, 06 Oct 2022 01:31:28 GMT",
+                "last-modified": "Fri, 30 Sep 2022 14:05:25 GMT",
+                "etag": "\"6336f7a5-1e0cc\"",
+                "cache-control": "max-age=600",
+                "accept-ranges": "bytes",
+                "server": "nginx",
+                "x-via": "1.1 bd132:2 (Cdn Cache Server V2.0), 1.1 PS-HND-04cBR180:7 (Cdn Cache Server V2.0)",
+                "x-ws-request-id": "633e2d98_PSrbJP1rf224_16233-35254"
+            }
+        },
+        "time": {
+            "start": "2022-10-06T01:21:28.296Z",
+            "end": "2022-10-06T01:21:55.157Z"
+        }
+    },
+    "options": {
+        "url": "https://www.mini1.cn/index",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
